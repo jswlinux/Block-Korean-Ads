@@ -1,0 +1,220 @@
+# OnDemandKorea
+0.0.0.0     gslbeacon.lijit.com
+0.0.0.0     cdn3.doubleverify.com
+0.0.0.0     googleads.g.doubleclick.net
+0.0.0.0     ver-adt-cm.vindicosuite.com
+0.0.0.0     s-static.ak.facebook.com
+0.0.0.0     ads.ondemandkorea.com
+0.0.0.0     static.ak.facebook.com
+0.0.0.0     t4.liverail.com
+0.0.0.0     tz.ts.vindicosuite.com
+0.0.0.0     sm.ts.vindicosuite.com
+0.0.0.0     addirector.vindicosuite.com
+0.0.0.0     a1-images.myspacecdn.com
+0.0.0.0     x.myspacecdn.com
+0.0.0.0     myspace.com
+0.0.0.0     cdn.liverail.com
+0.0.0.0     ad4.liverail.com
+0.0.0.0     ad.crwdcntrl.net
+
+# Gasengi
+0.0.0.0 tab2.clickmon.co.kr
+0.0.0.0 adver5.clickmon.co.kr
+0.0.0.0 img3.clickmon.co.kr
+0.0.0.0 adtg.widerplanet.com
+0.0.0.0 aitg.widerplanet.com
+
+# Gesomoon
+0.0.0.0 cl.ncclick.co.kr
+0.0.0.0 rc.asia.srv.overture.com
+0.0.0.0 sosa.semanticrep.com
+0.0.0.0 cm.semanticrep.com
+0.0.0.0 count.semanticrep.com
+0.0.0.0 op.mmnneo.com
+0.0.0.0 image.mmnneo.com
+0.0.0.0 ezsignup.myoverture.kr
+0.0.0.0 www.it.co.kr
+0.0.0.0 sb.trustmedia.co.kr
+0.0.0.0 trustmedia.co.kr
+0.0.0.0 byrestc.com
+0.0.0.0 google-analy.com
+0.0.0.0 simsimhe.com
+0.0.0.0 www.gncint.com
+0.0.0.0 star.hanatour.com
+0.0.0.0 www.rainbow-cc.com
+0.0.0.0 sba.about.co.kr
+0.0.0.0 adserver.sbtrustmedia.com
+0.0.0.0 googleads.g.doubleclick.net
+
+# Naver AD
+0.0.0.0 ad.naver.com
+0.0.0.0 adc.naver.com
+0.0.0.0 adcreative.naver.com
+0.0.0.0 ia.www.naver.com
+0.0.0.0 nv1.ad.naver.com
+0.0.0.0 nv2.ad.naver.com
+0.0.0.0 nv3.ad.naver.com
+0.0.0.0 nv4.ad.naver.com
+0.0.0.0 ad.news.naver.com
+0.0.0.0 adcr.naver.com
+0.0.0.0 nv.ad.naver.com
+0.0.0.0 wrd.naver.com
+
+# Daum AD
+0.0.0.0 adimg.daumcdn.net
+0.0.0.0 adclix.daum.net
+0.0.0.0 adclixad.daum.net
+0.0.0.0 amsv2.daum.net
+0.0.0.0 amsimg.hanmail.net
+0.0.0.0 amsimg.daum-img.net
+0.0.0.0 s0.2mdn.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 display.ad.daum.net
+0.0.0.0 clixinfo.biz.daum.net
+
+# SKC AD
+0.0.0.0 statclick.empas.com
+0.0.0.0 cyad.nate.com
+0.0.0.0 newscomm.nate.com
+
+#Yahoo AD
+0.0.0.0 kr.ard.yahoo.com
+0.0.0.0 bc.yahoo.com
+0.0.0.0 yimg.com
+0.0.0.0 kr.ads.yimg.com
+
+#Portal ETC
+0.0.0.0 ad.moneta.co.kr
+0.0.0.0 www.smallman.co.kr
+
+# Allblog AD
+0.0.0.0 allblet2.allblog.net
+
+# Tattermedia AD
+0.0.0.0 api.tattermedia.com
+0.0.0.0 ad.tattermedia.com
+0.0.0.0 ads.tattermedia.com
+
+# Newpapers
+0.0.0.0 adm.asiae.co.kr
+0.0.0.0 adver.betanews.net
+0.0.0.0 adimg1.chosun.com
+0.0.0.0 ads.khan.co.kr
+0.0.0.0 ad.kukinews.com
+0.0.0.0 advs.hankyung.com
+0.0.0.0 ad.imad.co.kr
+0.0.0.0 adp.joins.com
+0.0.0.0 cmpm.joins.com
+0.0.0.0 adv.segye.com
+0.0.0.0 ad.sportsseoul.com
+0.0.0.0 adsr.zdnet.co.kr
+
+# nasads
+0.0.0.0 nasimg.nasmedia.co.kr
+0.0.0.0 nads11.nasads.com
+0.0.0.0 nads12.nasads.com
+0.0.0.0 nads13.nasads.com
+0.0.0.0 nads14.nasads.com
+0.0.0.0 nads15.nasads.com
+0.0.0.0 nads16.nasads.com
+0.0.0.0 nads17.nasads.com
+0.0.0.0 nads18.nasads.com
+0.0.0.0 nads19.nasads.com
+0.0.0.0 nads20.nasads.com
+0.0.0.0 mmnimg.nasmedia.co.kr
+0.0.0.0 nasads.com
+0.0.0.0 nasmedia.co.kr
+
+# dmcads
+0.0.0.0 dmc.dmcmedia.co.kr
+0.0.0.0 dmc11.dmcmedia.co.kr
+
+# ZDnet
+0.0.0.0 logbanner.hu.co.kr
+0.0.0.0 outbanner.hu.co.kr
+0.0.0.0 image.jssearch.net
+0.0.0.0 img.keywordsconnect.com
+0.0.0.0 img1.keywordsconnect.com
+0.0.0.0 img2.keywordsconnect.com
+0.0.0.0 adsr.meganews.co.kr
+
+# MS
+0.0.0.0 rad.live.com
+0.0.0.0 rad.msn.com
+0.0.0.0 ads1.msn.com
+
+# ETC
+0.0.0.0 img.ad-indicator.com
+0.0.0.0 ad.adclick.co.kr
+0.0.0.0 img.adoneplone.co.kr
+0.0.0.0 nad.adtive.co.kr
+0.0.0.0 click.contextads.net
+0.0.0.0 adv.danawa.co.kr
+0.0.0.0 ad.kr.doubleclick.net
+0.0.0.0 ad29.feeldmc.com
+0.0.0.0 adv.imadrep.com
+0.0.0.0 adimage.maxmovie.com
+0.0.0.0 adplus.oneplone.com
+0.0.0.0 overture.com
+0.0.0.0 rc.asia.srv.overture.com
+0.0.0.0 realclick.com
+0.0.0.0 realclick.co.kr
+0.0.0.0 ade.realclick.co.kr
+0.0.0.0 adr.realclick.co.kr
+0.0.0.0 hcimg.realclick.co.kr
+0.0.0.0 payopen.scout.co.kr
+0.0.0.0 targetbanner.co.kr
+0.0.0.0 tag.targetbanner.co.kr
+0.0.0.0 trk.wizsolution.co.kr
+0.0.0.0 iwmedia.xcdnplus.co.kr
+0.0.0.0 ad.yieldmanager.com
+0.0.0.0 adx.naonmedia.net
+0.0.0.0 ad.owra.net
+0.0.0.0 adv.imadrep.co.kr
+0.0.0.0 www.lightad.co.kr
+0.0.0.0 www.zeroclub.co.kr
+0.0.0.0 wec.co.kr
+0.0.0.0 new.jshopbox.com
+0.0.0.0 ad02.drbig.co.kr
+0.0.0.0 www.mjdent.com
+0.0.0.0 bgmstore.net
+0.0.0.0 player.bgmstore.net
+0.0.0.0 addc.dcinside.com
+0.0.0.0 img.mobon.net
+0.0.0.0 adddn.adotsolution.com
+0.0.0.0 nad.cbs.co.kr
+0.0.0.0 adimg.wisenut.co.kr
+0.0.0.0 ads.ecoadproject.co.kr
+0.0.0.0 static.sv.us.criteo.net
+0.0.0.0 cas.ny.us.criteo.net
+0.0.0.0 images.ny.us.criteo.net
+0.0.0.0 cas.criteo.net
+0.0.0.0 cas.criteo.com
+0.0.0.0 info.criteo.net
+0.0.0.0 ads.ecoadproject.co.kr
+0.0.0.0 adv.imadrep.co.kr
+0.0.0.0 simq.imadrep.co.kr
+0.0.0.0 adkpf.newscloud.or.kr
+0.0.0.0 tech.realmedia.co.kr
+
+
+# Grooveshark
+0.0.0.0 ds.serving-sys.com
+0.0.0.0 sekindo.com
+0.0.0.0 embed.realfeed.tv
+0.0.0.0 ads-grooveshark.com
+
+# inven.co.kr
+0.0.0.0 dmc22.dmcmedia.co.kr
+0.0.0.0 ads.inven.co.kr
+0.0.0.0 adn.inven.co.kr
+
+# gesomoon.co.kr
+0.0.0.0 jump.emforce.co.kr
+0.0.0.0 hp.costko.co.kr
+0.0.0.0 ad.pasanhelp.co.kr
+0.0.0.0 cdn.mklaud.com
+0.0.0.0 cl.mklaud.com
+
+# DC Inside
+0.0.0.0 addc.dcinside.com
