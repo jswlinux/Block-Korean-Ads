@@ -1,11 +1,10 @@
 # OnDemandKorea
 0.0.0.0     gslbeacon.lijit.com
+0.0.0.0     ap.lijit.com
 0.0.0.0     cdn3.doubleverify.com
 0.0.0.0     googleads.g.doubleclick.net
 0.0.0.0     ver-adt-cm.vindicosuite.com
-0.0.0.0     s-static.ak.facebook.com
 0.0.0.0     ads.ondemandkorea.com
-0.0.0.0     static.ak.facebook.com
 0.0.0.0     t4.liverail.com
 0.0.0.0     tz.ts.vindicosuite.com
 0.0.0.0     sm.ts.vindicosuite.com
@@ -16,6 +15,34 @@
 0.0.0.0     cdn.liverail.com
 0.0.0.0     ad4.liverail.com
 0.0.0.0     ad.crwdcntrl.net
+0.0.0.0     tpc.googlesyndication.com
+0.0.0.0     c.betrad.com
+0.0.0.0     leadback.advertising.com
+0.0.0.0     secure.ace.advertising.com
+0.0.0.0     ads.p.veruta.com
+0.0.0.0     cm.g.doubleclick.net
+0.0.0.0     yvr.aftomedia.com
+0.0.0.0     fw.adsafeprotected.com
+0.0.0.0     westads.simpli.fi
+0.0.0.0     www.everestads.net
+0.0.0.0     www.everestjs.net
+0.0.0.0     cmap.uac.ace.advertising.com
+0.0.0.0     secure-lax.adnxs.com
+0.0.0.0     pixel.mathtag.com
+0.0.0.0     aka-cdn-ns.adtechus.com
+0.0.0.0     a.adtechus.com
+0.0.0.0     ds.serving-sys.com
+0.0.0.0     a248.e.akamai.net
+0.0.0.0     origin2.adsdk.com
+0.0.0.0     geo.moatads.com
+0.0.0.0     media.lowermybills.com
+0.0.0.0     c.chango.com
+0.0.0.0     d.chango.com
+0.0.0.0     doug1izaerwt3.cloudfront.net
+0.0.0.0     i.kissmetrics.com
+0.0.0.0     js-agent.newrelic.com
+0.0.0.0     bam.nr-data.net
+0.0.0.0     js-agent.newrelic.com
 
 # Gasengi
 0.0.0.0 tab2.clickmon.co.kr
@@ -49,6 +76,7 @@
 # Naver AD
 0.0.0.0 ad.naver.com
 0.0.0.0 adc.naver.com
+0.0.0.0 adcr.naver.com
 0.0.0.0 adcreative.naver.com
 0.0.0.0 ia.www.naver.com
 0.0.0.0 nv1.ad.naver.com
@@ -143,6 +171,27 @@
 0.0.0.0 rad.msn.com
 0.0.0.0 ads1.msn.com
 
+# Grooveshark
+0.0.0.0 ds.serving-sys.com
+0.0.0.0 sekindo.com
+0.0.0.0 embed.realfeed.tv
+0.0.0.0 ads-grooveshark.com
+
+# inven.co.kr
+0.0.0.0 dmc22.dmcmedia.co.kr
+0.0.0.0 ads.inven.co.kr
+0.0.0.0 adn.inven.co.kr
+
+# gesomoon.co.kr
+0.0.0.0 jump.emforce.co.kr
+0.0.0.0 hp.costko.co.kr
+0.0.0.0 ad.pasanhelp.co.kr
+0.0.0.0 cdn.mklaud.com
+0.0.0.0 cl.mklaud.com
+
+# DC Inside
+0.0.0.0 addc.dcinside.com
+
 # ETC
 0.0.0.0 img.ad-indicator.com
 0.0.0.0 ad.adclick.co.kr
@@ -196,25 +245,10 @@
 0.0.0.0 simq.imadrep.co.kr
 0.0.0.0 adkpf.newscloud.or.kr
 0.0.0.0 tech.realmedia.co.kr
+0.0.0.0 www.halfsms.co.kr
+0.0.0.0 www.fun88kr.net
+0.0.0.0 simg.imadrep.co.kr
+0.0.0.0 nadservice.co.kr
+0.0.0.0 ad.safepc.kr
+0.0.0.0 ad.hani.co.kr
 
-
-# Grooveshark
-0.0.0.0 ds.serving-sys.com
-0.0.0.0 sekindo.com
-0.0.0.0 embed.realfeed.tv
-0.0.0.0 ads-grooveshark.com
-
-# inven.co.kr
-0.0.0.0 dmc22.dmcmedia.co.kr
-0.0.0.0 ads.inven.co.kr
-0.0.0.0 adn.inven.co.kr
-
-# gesomoon.co.kr
-0.0.0.0 jump.emforce.co.kr
-0.0.0.0 hp.costko.co.kr
-0.0.0.0 ad.pasanhelp.co.kr
-0.0.0.0 cdn.mklaud.com
-0.0.0.0 cl.mklaud.com
-
-# DC Inside
-0.0.0.0 addc.dcinside.com
