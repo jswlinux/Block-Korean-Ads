@@ -72,6 +72,7 @@
 0.0.0.0 sba.about.co.kr
 0.0.0.0 adserver.sbtrustmedia.com
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 ad.lucky10.kr
 
 # Naver AD
 0.0.0.0 ad.naver.com
@@ -188,6 +189,9 @@
 0.0.0.0 ad.pasanhelp.co.kr
 0.0.0.0 cdn.mklaud.com
 0.0.0.0 cl.mklaud.com
+0.0.0.0 adv.realclick.co.kr
+0.0.0.0 sosa.semanticrep.com
+0.0.0.0 op.mmnneo.com
 
 # DC Inside
 0.0.0.0 addc.dcinside.com
@@ -251,4 +255,20 @@
 0.0.0.0 nadservice.co.kr
 0.0.0.0 ad.safepc.kr
 0.0.0.0 ad.hani.co.kr
-
+0.0.0.0 adinc.co.kr
+0.0.0.0 cdn.flashtalking.com
+0.0.0.0 ad.runmart.kr
+0.0.0.0 video.sekindo.com
+0.0.0.0 img1.keywordsconnect.com
+0.0.0.0 img2.keywordsconnect.com
+0.0.0.0 js.moatads.com
+0.0.0.0 redirector.gvt1.com
+0.0.0.0 jump.emforce.co.kr
+0.0.0.0 ad.runmart.kr
+0.0.0.0 ad.wedgo.kr
+0.0.0.0 am-bohum.kr
+0.0.0.0 ad.safepc.kr
+0.0.0.0 videocreatives.mode.com
+0.0.0.0 ad.usedcarmart.kr
+0.0.0.0 www.lotteimall.com
+0.0.0.0 ad.uroclinic.kr
